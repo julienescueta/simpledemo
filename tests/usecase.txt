@@ -1,0 +1,7 @@
+Use case: Guest user visits the site and registers
+ 
+1- visit the home page
+2- click on the register button
+3- fill out the registration form
+4- click the register button
+5- assert that the user's name shows up on their profile
